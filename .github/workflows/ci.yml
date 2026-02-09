@@ -50,6 +50,7 @@ jobs:
           - v4
           - v5
           - v6
+          - v7
     runs-on: ubuntu-latest
 
     steps:
